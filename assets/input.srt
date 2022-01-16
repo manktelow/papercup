@@ -1,0 +1,1479 @@
+1
+00:00:00,160 --> 00:00:01,680
+this
+
+2
+00:00:01,680 --> 00:00:04,800
+is a computer
+
+3
+00:00:12,080 --> 00:00:15,200
+or at least back in the 1930s 40s and
+
+4
+00:00:15,200 --> 00:00:17,680
+50s the person operating it was a
+
+5
+00:00:17,680 --> 00:00:19,520
+computer you see back then a fully
+
+6
+00:00:19,520 --> 00:00:22,359
+automatic calculator like this one was
+
+7
+00:00:22,359 --> 00:00:25,119
+mind-blowing allowing people to add
+
+8
+00:00:25,119 --> 00:00:27,760
+subtract multiply and divide large
+
+9
+00:00:27,760 --> 00:00:30,400
+numbers without the use of pen and paper
+
+10
+00:00:30,400 --> 00:00:31,920
+these days that's all done
+
+11
+00:00:31,920 --> 00:00:34,239
+electronically but when richard a local
+
+12
+00:00:34,239 --> 00:00:36,960
+fan reached out and said hey i've got
+
+13
+00:00:36,960 --> 00:00:38,079
+one of these
+
+14
+00:00:38,079 --> 00:00:39,920
+we jumped at the chance to become the
+
+15
+00:00:39,920 --> 00:00:42,480
+very thing we love the most
+
+16
+00:00:42,480 --> 00:00:44,879
+computers thanks to signalrgb for
+
+17
+00:00:44,879 --> 00:00:47,120
+sponsoring this video signalrgb is a
+
+18
+00:00:47,120 --> 00:00:49,200
+free application that syncs rgb lighting
+
+19
+00:00:49,200 --> 00:00:51,039
+across your entire setup and works for
+
+20
+00:00:51,039 --> 00:00:53,280
+brands like corsair razer logitech and
+
+21
+00:00:53,280 --> 00:00:57,800
+more check it out at the link down below
+
+22
+00:01:00,080 --> 00:01:04,239
+[Music]
+
+23
+00:01:04,239 --> 00:01:05,920
+when i was in school teachers would
+
+24
+00:01:05,920 --> 00:01:08,400
+insist we learned to do long division by
+
+25
+00:01:08,400 --> 00:01:10,000
+hand because you're not going to be
+
+26
+00:01:10,000 --> 00:01:12,000
+going around carrying a calculator
+
+27
+00:01:12,000 --> 00:01:14,720
+everywhere you go well joke's on you
+
+28
+00:01:14,720 --> 00:01:17,040
+miss parsons cause now everyone is doing
+
+29
+00:01:17,040 --> 00:01:20,159
+exactly that and trust me this baby does
+
+30
+00:01:20,159 --> 00:01:22,720
+long division but back in the 90s miss
+
+31
+00:01:22,720 --> 00:01:24,479
+parsons could be forgiven for thinking
+
+32
+00:01:24,479 --> 00:01:26,880
+that pocket calculators wouldn't be as
+
+33
+00:01:26,880 --> 00:01:29,119
+ubiquitous today seeing as many older
+
+34
+00:01:29,119 --> 00:01:31,040
+folks back then may have grown up with
+
+35
+00:01:31,040 --> 00:01:33,600
+something a lot more like this the
+
+36
+00:01:33,600 --> 00:01:36,479
+frieden stw10. if we were to go back
+
+37
+00:01:36,479 --> 00:01:38,479
+another 30 years there's a good chance
+
+38
+00:01:38,479 --> 00:01:40,880
+we'd find one of these chunky boys on an
+
+39
+00:01:40,880 --> 00:01:43,119
+accountant's desk in fact you may have
+
+40
+00:01:43,119 --> 00:01:45,040
+already seen something like this either
+
+41
+00:01:45,040 --> 00:01:48,079
+online or in a stirring historical drama
+
+42
+00:01:48,079 --> 00:01:50,640
+like hidden figures no it's not a
+
+43
+00:01:50,640 --> 00:01:52,320
+typewriter although it does sort of
+
+44
+00:01:52,320 --> 00:01:54,159
+share some similarities there's a
+
+45
+00:01:54,159 --> 00:01:56,640
+sliding carriage on top and a large set
+
+46
+00:01:56,640 --> 00:01:58,960
+of keys on the body but these are all
+
+47
+00:01:58,960 --> 00:02:01,360
+numbers and there's no ink or paper
+
+48
+00:02:01,360 --> 00:02:03,920
+needed at least not any that you insert
+
+49
+00:02:03,920 --> 00:02:06,079
+into the machine itself the first set of
+
+50
+00:02:06,079 --> 00:02:07,439
+mechanical number displays on the
+
+51
+00:02:07,439 --> 00:02:09,919
+carriage is the accumulator row which
+
+52
+00:02:09,919 --> 00:02:12,480
+can display results up to 20 digits long
+
+53
+00:02:12,480 --> 00:02:14,400
+for reference most pocket calculators
+
+54
+00:02:14,400 --> 00:02:16,959
+today only display around 8 or 10 and my
+
+55
+00:02:16,959 --> 00:02:19,200
+phone can enter up to 15 digits before
+
+56
+00:02:19,200 --> 00:02:21,920
+it starts using exponents the row below
+
+57
+00:02:21,920 --> 00:02:24,720
+that is the counter register it serves a
+
+58
+00:02:24,720 --> 00:02:26,400
+couple of different functions just like
+
+59
+00:02:26,400 --> 00:02:27,840
+how our new indoor sweater from
+
+60
+00:02:27,840 --> 00:02:30,400
+lttstore.com keeps you warm and boosts
+
+61
+00:02:30,400 --> 00:02:32,319
+your confidence don't quote me on that
+
+62
+00:02:32,319 --> 00:02:34,319
+the first function is how it acts as an
+
+63
+00:02:34,319 --> 00:02:36,640
+item counter when adding or subtracting
+
+64
+00:02:36,640 --> 00:02:39,120
+and the second is operations counting
+
+65
+00:02:39,120 --> 00:02:41,519
+when multiplying or dividing you can
+
+66
+00:02:41,519 --> 00:02:43,840
+lock these rows or clear them with some
+
+67
+00:02:43,840 --> 00:02:46,239
+button presses
+
+68
+00:02:46,239 --> 00:02:48,319
+or you can use one of these guys down
+
+69
+00:02:48,319 --> 00:02:50,640
+here to set where the decimal starts for
+
+70
+00:02:50,640 --> 00:02:53,040
+division i want to start it
+
+71
+00:02:53,040 --> 00:02:55,519
+there now down here
+
+72
+00:02:55,519 --> 00:02:57,840
+one numpad would be bush league so we
+
+73
+00:02:57,840 --> 00:03:00,159
+got two
+
+74
+00:03:00,159 --> 00:03:02,159
+this little one over here is used only
+
+75
+00:03:02,159 --> 00:03:04,400
+for entering multiplicands more on that
+
+76
+00:03:04,400 --> 00:03:07,280
+later and the big one is used for
+
+77
+00:03:07,280 --> 00:03:09,920
+everything else each digit has its own
+
+78
+00:03:09,920 --> 00:03:12,239
+column and you enter your total value by
+
+79
+00:03:12,239 --> 00:03:14,159
+pushing down keys as they would appear
+
+80
+00:03:14,159 --> 00:03:17,760
+on paper so for example for 1337 we push
+
+81
+00:03:17,760 --> 00:03:20,000
+them in order like this
+
+82
+00:03:20,000 --> 00:03:23,760
+one three three seven if any column has
+
+83
+00:03:23,760 --> 00:03:26,560
+nothing pressed that counts as zero it's
+
+84
+00:03:26,560 --> 00:03:28,560
+a little confusing at first but you get
+
+85
+00:03:28,560 --> 00:03:30,319
+used to it pretty quickly everything is
+
+86
+00:03:30,319 --> 00:03:32,640
+housed in a shell made of what we think
+
+87
+00:03:32,640 --> 00:03:34,879
+is aluminum covered in plastic that's
+
+88
+00:03:34,879 --> 00:03:36,879
+pretty easy to take off and there's a
+
+89
+00:03:36,879 --> 00:03:39,120
+giant pad of foam underneath to keep
+
+90
+00:03:39,120 --> 00:03:41,200
+this mechanical beast from shaking your
+
+91
+00:03:41,200 --> 00:03:42,879
+table to death
+
+92
+00:03:42,879 --> 00:03:47,400
+i mean this thing is heavy
+
+93
+00:03:47,440 --> 00:03:48,799
+oh
+
+94
+00:03:48,799 --> 00:03:50,640
+i'm doing math
+
+95
+00:03:50,640 --> 00:03:52,560
+i feel smarter
+
+96
+00:03:52,560 --> 00:03:54,319
+you can see on the inside it's basically
+
+97
+00:03:54,319 --> 00:03:57,519
+a giant mishmash of gears levers springs
+
+98
+00:03:57,519 --> 00:03:58,720
+and arms
+
+99
+00:03:58,720 --> 00:04:01,439
+it's like mechanical spaghetti in there
+
+100
+00:04:01,439 --> 00:04:03,439
+it is incredibly complex and the amount
+
+101
+00:04:03,439 --> 00:04:05,439
+of engineering that went into something
+
+102
+00:04:05,439 --> 00:04:07,599
+like this is absolutely insane there
+
+103
+00:04:07,599 --> 00:04:09,760
+were earlier models like the 1941
+
+104
+00:04:09,760 --> 00:04:11,840
+frieden h8 but these were often limited
+
+105
+00:04:11,840 --> 00:04:14,159
+to addition and subtraction and weren't
+
+106
+00:04:14,159 --> 00:04:16,880
+driven electronically the stw10 came out
+
+107
+00:04:16,880 --> 00:04:18,720
+a few years later and gave simple
+
+108
+00:04:18,720 --> 00:04:19,759
+computers
+
+109
+00:04:19,759 --> 00:04:22,000
+like us the ability to multiply and
+
+110
+00:04:22,000 --> 00:04:25,199
+divide big numbers easily hey
+
+111
+00:04:25,199 --> 00:04:27,199
+what do you say we crunch some numbers
+
+112
+00:04:27,199 --> 00:04:29,840
+so to add you enter a value on the main
+
+113
+00:04:29,840 --> 00:04:33,600
+pad and add it to the top row like this
+
+114
+00:04:33,600 --> 00:04:36,000
+bam now we enter whatever number we want
+
+115
+00:04:36,000 --> 00:04:38,160
+to add to that number by entering new
+
+116
+00:04:38,160 --> 00:04:42,160
+values and pressing the add button again
+
+117
+00:04:42,160 --> 00:04:44,080
+so what it's actually doing is setting a
+
+118
+00:04:44,080 --> 00:04:46,400
+value on a number of dials and then
+
+119
+00:04:46,400 --> 00:04:49,040
+ticking everything up by the new value
+
+120
+00:04:49,040 --> 00:04:51,120
+in sequence it's a lot like how you
+
+121
+00:04:51,120 --> 00:04:53,360
+would do paper math adding each digit
+
+122
+00:04:53,360 --> 00:04:55,199
+until there's an overflow then adding
+
+123
+00:04:55,199 --> 00:04:57,040
+the overflow to the end if we want to
+
+124
+00:04:57,040 --> 00:04:59,600
+subtract it's basically doing the exact
+
+125
+00:04:59,600 --> 00:05:01,520
+opposite by starting with a value and
+
+126
+00:05:01,520 --> 00:05:03,680
+then decreasing it in sequential order
+
+127
+00:05:03,680 --> 00:05:05,440
+by the new value
+
+128
+00:05:05,440 --> 00:05:07,360
+multiplication works in a similar way
+
+129
+00:05:07,360 --> 00:05:10,639
+it's basically just addition in groups
+
+130
+00:05:10,639 --> 00:05:12,880
+except this time we get to use the cool
+
+131
+00:05:12,880 --> 00:05:15,919
+multiplicand numpad i've been waiting so
+
+132
+00:05:15,919 --> 00:05:16,880
+long
+
+133
+00:05:16,880 --> 00:05:18,720
+this one actually works like what you'd
+
+134
+00:05:18,720 --> 00:05:20,240
+see in a modern calculator where you
+
+135
+00:05:20,240 --> 00:05:22,639
+enter each digit serially from left to
+
+136
+00:05:22,639 --> 00:05:24,240
+right and it brings up your value on
+
+137
+00:05:24,240 --> 00:05:26,639
+this little display here next we enter
+
+138
+00:05:26,639 --> 00:05:30,639
+our multiplier on the big numpad
+
+139
+00:05:31,199 --> 00:05:33,440
+press the mult key
+
+140
+00:05:33,440 --> 00:05:35,440
+and look at it go
+
+141
+00:05:35,440 --> 00:05:36,840
+ha
+
+142
+00:05:36,840 --> 00:05:39,919
+ha that is so cool we'll get some
+
+143
+00:05:39,919 --> 00:05:41,919
+slow-mo footage but as it's going you
+
+144
+00:05:41,919 --> 00:05:44,160
+can basically watch it in real time
+
+145
+00:05:44,160 --> 00:05:45,919
+working through the numbers brute
+
+146
+00:05:45,919 --> 00:05:48,160
+forcing addition of our multiplicand as
+
+147
+00:05:48,160 --> 00:05:50,880
+many times as i've told it to because
+
+148
+00:05:50,880 --> 00:05:52,880
+again i am
+
+149
+00:05:52,880 --> 00:05:55,199
+the computer division is basically the
+
+150
+00:05:55,199 --> 00:05:57,280
+same thing but backwards like
+
+151
+00:05:57,280 --> 00:05:59,360
+subtraction enter your first number on
+
+152
+00:05:59,360 --> 00:06:01,060
+the big keypad
+
+153
+00:06:01,060 --> 00:06:02,720
+[Music]
+
+154
+00:06:02,720 --> 00:06:05,039
+set your decimal place
+
+155
+00:06:05,039 --> 00:06:07,160
+and hit enter divd
+
+156
+00:06:07,160 --> 00:06:08,800
+[Music]
+
+157
+00:06:08,800 --> 00:06:10,880
+this puts the carriage to where it needs
+
+158
+00:06:10,880 --> 00:06:13,039
+to go according to our decimal point
+
+159
+00:06:13,039 --> 00:06:14,560
+clear the keyboard if it didn't
+
+160
+00:06:14,560 --> 00:06:15,840
+automatically
+
+161
+00:06:15,840 --> 00:06:18,000
+and enter your divisor on the same
+
+162
+00:06:18,000 --> 00:06:20,720
+keypad
+
+163
+00:06:20,720 --> 00:06:23,199
+now we're gonna have to hit both
+
+164
+00:06:23,199 --> 00:06:25,360
+of these divide keys we'll get to why
+
+165
+00:06:25,360 --> 00:06:27,680
+there are two in a moment but for now
+
+166
+00:06:27,680 --> 00:06:31,240
+look at it go
+
+167
+00:06:34,400 --> 00:06:35,520
+oh
+
+168
+00:06:35,520 --> 00:06:37,280
+man that never gets old just like
+
+169
+00:06:37,280 --> 00:06:38,960
+hitting that subscribe button never gets
+
+170
+00:06:38,960 --> 00:06:41,039
+old we've got our eyes on an antique or
+
+171
+00:06:41,039 --> 00:06:42,800
+a mechanism video in the future that you
+
+172
+00:06:42,800 --> 00:06:45,120
+don't want to miss now for the most part
+
+173
+00:06:45,120 --> 00:06:47,039
+this should just work it crunches
+
+174
+00:06:47,039 --> 00:06:48,400
+through the numbers to the nearest
+
+175
+00:06:48,400 --> 00:06:50,560
+decimal point and gives us our result
+
+176
+00:06:50,560 --> 00:06:54,800
+which is uh uh give me a second
+
+177
+00:06:58,479 --> 00:07:00,000
+33.3
+
+178
+00:07:00,000 --> 00:07:02,560
+repeating of course but if you were to
+
+179
+00:07:02,560 --> 00:07:05,440
+accidentally divide a number by zero the
+
+180
+00:07:05,440 --> 00:07:07,919
+machine can get stuck in an infinite
+
+181
+00:07:07,919 --> 00:07:10,160
+loop
+
+182
+00:07:10,880 --> 00:07:12,000
+what
+
+183
+00:07:12,000 --> 00:07:13,919
+back in the 40s and 50s if a room of
+
+184
+00:07:13,919 --> 00:07:15,440
+accountants or something was using
+
+185
+00:07:15,440 --> 00:07:18,240
+automatic calculators without this handy
+
+186
+00:07:18,240 --> 00:07:20,479
+div stop function we have right here
+
+187
+00:07:20,479 --> 00:07:23,280
+there'd actually be a guy in the room
+
+188
+00:07:23,280 --> 00:07:25,440
+whose job it was to basically just
+
+189
+00:07:25,440 --> 00:07:27,759
+listen for this infinite loop and walk
+
+190
+00:07:27,759 --> 00:07:31,199
+around resetting machines
+
+191
+00:07:31,199 --> 00:07:33,840
+now this bad boy is pretty well lubed
+
+192
+00:07:33,840 --> 00:07:36,960
+thanks to richard did you lube it up
+
+193
+00:07:36,960 --> 00:07:39,919
+oh yeah but rapidly moving metal moving
+
+194
+00:07:39,919 --> 00:07:42,880
+for a long time gets really hot so if
+
+195
+00:07:42,880 --> 00:07:46,160
+there was no button or no button man
+
+196
+00:07:46,160 --> 00:07:47,680
+you'd find out what was at the end of
+
+197
+00:07:47,680 --> 00:07:51,520
+that infinite loop molten destruction
+
+198
+00:07:51,520 --> 00:07:53,680
+at this moment you're probably screaming
+
+199
+00:07:53,680 --> 00:07:56,319
+at me at the top of your lungs riley why
+
+200
+00:07:56,319 --> 00:07:58,879
+does this have two division buttons why
+
+201
+00:07:58,879 --> 00:08:00,720
+i'm gonna need you to calm down by the
+
+202
+00:08:00,720 --> 00:08:02,560
+time division and multiplication were
+
+203
+00:08:02,560 --> 00:08:04,800
+added someone else had already beaten
+
+204
+00:08:04,800 --> 00:08:06,960
+frieden to the punch and patented a
+
+205
+00:08:06,960 --> 00:08:09,039
+single button division system preventing
+
+206
+00:08:09,039 --> 00:08:11,280
+freedom from including it in this model
+
+207
+00:08:11,280 --> 00:08:13,360
+if you press only the left division
+
+208
+00:08:13,360 --> 00:08:15,360
+button the division will take place but
+
+209
+00:08:15,360 --> 00:08:17,599
+you'll get only the tens complement of
+
+210
+00:08:17,599 --> 00:08:20,879
+the expected result now the stw10 was
+
+211
+00:08:20,879 --> 00:08:23,599
+only designed to do addition subtraction
+
+212
+00:08:23,599 --> 00:08:26,240
+multiplication and division but some
+
+213
+00:08:26,240 --> 00:08:28,639
+masters of the universe actually figured
+
+214
+00:08:28,639 --> 00:08:30,800
+out how to get square roots on this
+
+215
+00:08:30,800 --> 00:08:33,200
+thing how you ask
+
+216
+00:08:33,200 --> 00:08:34,640
+wizardry
+
+217
+00:08:34,640 --> 00:08:36,399
+uh
+
+218
+00:08:36,399 --> 00:08:38,719
+dining so in order to actually do a
+
+219
+00:08:38,719 --> 00:08:41,440
+square root on a calculator like this
+
+220
+00:08:41,440 --> 00:08:43,360
+you have to follow a number of different
+
+221
+00:08:43,360 --> 00:08:45,680
+types of algorithms to actually do it
+
+222
+00:08:45,680 --> 00:08:48,080
+these machines don't have a push square
+
+223
+00:08:48,080 --> 00:08:50,320
+root button but math has developed
+
+224
+00:08:50,320 --> 00:08:52,959
+algorithms that you can use to quickly
+
+225
+00:08:52,959 --> 00:08:55,600
+calculate a square root on a machine
+
+226
+00:08:55,600 --> 00:08:57,920
+like this or on paper or anywhere else
+
+227
+00:08:57,920 --> 00:08:59,200
+for this machine the algorithm that
+
+228
+00:08:59,200 --> 00:09:01,120
+we're looking at using is the sum of odd
+
+229
+00:09:01,120 --> 00:09:03,680
+squares for our sake it works i'll take
+
+230
+00:09:03,680 --> 00:09:05,200
+you through the steps of how it works
+
+231
+00:09:05,200 --> 00:09:06,160
+for
+
+232
+00:09:06,160 --> 00:09:09,040
+this 69 420. first up you move your
+
+233
+00:09:09,040 --> 00:09:10,080
+carriage
+
+234
+00:09:10,080 --> 00:09:11,360
+all the way over
+
+235
+00:09:11,360 --> 00:09:13,760
+and make sure that it's aligned with the
+
+236
+00:09:13,760 --> 00:09:15,760
+tenth digit of your number then you
+
+237
+00:09:15,760 --> 00:09:16,800
+enter
+
+238
+00:09:16,800 --> 00:09:19,440
+plus five times
+
+239
+00:09:19,440 --> 00:09:22,560
+now clear off and move the carriage
+
+240
+00:09:22,560 --> 00:09:24,240
+all the way over now we'll go through
+
+241
+00:09:24,240 --> 00:09:25,360
+and actually get into the weeds of
+
+242
+00:09:25,360 --> 00:09:27,600
+calculating this number out you put a
+
+243
+00:09:27,600 --> 00:09:28,720
+five
+
+244
+00:09:28,720 --> 00:09:30,800
+in the next column over this is the
+
+245
+00:09:30,800 --> 00:09:32,800
+column we're actually calculating one
+
+246
+00:09:32,800 --> 00:09:35,360
+and you start subtracting away
+
+247
+00:09:35,360 --> 00:09:37,600
+as we're going through each increment
+
+248
+00:09:37,600 --> 00:09:39,200
+we're essentially adding another one of
+
+249
+00:09:39,200 --> 00:09:41,839
+the odd numbers through some math magic
+
+250
+00:09:41,839 --> 00:09:44,560
+but as we're subtracting away subtract
+
+251
+00:09:44,560 --> 00:09:45,519
+one
+
+252
+00:09:45,519 --> 00:09:46,720
+subtract
+
+253
+00:09:46,720 --> 00:09:48,560
+two that's when you know that's the
+
+254
+00:09:48,560 --> 00:09:50,160
+number you're looking for you add it
+
+255
+00:09:50,160 --> 00:09:51,600
+back
+
+256
+00:09:51,600 --> 00:09:53,040
+shift the carriage
+
+257
+00:09:53,040 --> 00:09:55,680
+over one shift the five over one
+
+258
+00:09:55,680 --> 00:09:57,440
+and start again and this is where it
+
+259
+00:09:57,440 --> 00:09:59,279
+starts getting
+
+260
+00:09:59,279 --> 00:10:01,839
+a little bit repetitive
+
+261
+00:10:01,839 --> 00:10:05,160
+but it works
+
+262
+00:10:06,800 --> 00:10:08,880
+there's another underflow
+
+263
+00:10:08,880 --> 00:10:10,240
+add it back
+
+264
+00:10:10,240 --> 00:10:13,200
+clear the five move it over
+
+265
+00:10:13,200 --> 00:10:14,560
+shift the carriage
+
+266
+00:10:14,560 --> 00:10:18,440
+and again
+
+267
+00:10:20,000 --> 00:10:21,360
+underflow
+
+268
+00:10:21,360 --> 00:10:22,560
+add it back
+
+269
+00:10:22,560 --> 00:10:24,959
+clear the five move it over
+
+270
+00:10:24,959 --> 00:10:26,240
+shift the carriage
+
+271
+00:10:26,240 --> 00:10:29,640
+and subtract
+
+272
+00:10:32,000 --> 00:10:33,120
+underflow
+
+273
+00:10:33,120 --> 00:10:34,240
+back
+
+274
+00:10:34,240 --> 00:10:35,600
+and repeat
+
+275
+00:10:35,600 --> 00:10:37,519
+in this particular algorithm we're
+
+276
+00:10:37,519 --> 00:10:39,600
+breaking it up by individual digit
+
+277
+00:10:39,600 --> 00:10:41,440
+similar to like what you do on paper so
+
+278
+00:10:41,440 --> 00:10:43,120
+we're starting with the biggest number
+
+279
+00:10:43,120 --> 00:10:45,040
+and slowly shifting our way down as we
+
+280
+00:10:45,040 --> 00:10:47,200
+move on and that's an easier way to try
+
+281
+00:10:47,200 --> 00:10:49,680
+to handle numbers that are five plus
+
+282
+00:10:49,680 --> 00:10:53,279
+digits long especially for a square root
+
+283
+00:10:53,279 --> 00:10:55,279
+and
+
+284
+00:10:55,279 --> 00:10:56,959
+now that we're on this last line we
+
+285
+00:10:56,959 --> 00:10:58,640
+can't move the five over anymore but we
+
+286
+00:10:58,640 --> 00:11:00,880
+just cleared off shift over the carriage
+
+287
+00:11:00,880 --> 00:11:02,560
+and do the same step again just without
+
+288
+00:11:02,560 --> 00:11:05,279
+the extra five
+
+289
+00:11:05,440 --> 00:11:08,160
+and now we've done the square root but
+
+290
+00:11:08,160 --> 00:11:10,240
+where's the answer we have a whole bunch
+
+291
+00:11:10,240 --> 00:11:11,680
+of different numbers on the board for
+
+292
+00:11:11,680 --> 00:11:14,079
+this it's actually the board itself we
+
+293
+00:11:14,079 --> 00:11:15,519
+have two
+
+294
+00:11:15,519 --> 00:11:16,320
+six
+
+295
+00:11:16,320 --> 00:11:17,440
+three
+
+296
+00:11:17,440 --> 00:11:18,480
+point
+
+297
+00:11:18,480 --> 00:11:20,079
+four seven
+
+298
+00:11:20,079 --> 00:11:20,959
+six
+
+299
+00:11:20,959 --> 00:11:21,839
+seven
+
+300
+00:11:21,839 --> 00:11:22,800
+five
+
+301
+00:11:22,800 --> 00:11:23,600
+four
+
+302
+00:11:23,600 --> 00:11:24,399
+one
+
+303
+00:11:24,399 --> 00:11:26,240
+so this kind of shows the power of you
+
+304
+00:11:26,240 --> 00:11:27,839
+know interesting approaches to trying to
+
+305
+00:11:27,839 --> 00:11:29,760
+solve calculations that used to take
+
+306
+00:11:29,760 --> 00:11:31,920
+minutes hours days in an order of
+
+307
+00:11:31,920 --> 00:11:33,839
+magnitude less time how long would that
+
+308
+00:11:33,839 --> 00:11:36,160
+take you to do on fan paper
+
+309
+00:11:36,160 --> 00:11:37,680
+i'd have to learn how to do it on pen
+
+310
+00:11:37,680 --> 00:11:40,320
+and paper first
+
+311
+00:11:40,320 --> 00:11:42,240
+so what happened to calculators like
+
+312
+00:11:42,240 --> 00:11:44,560
+this well frieden sold thousands of
+
+313
+00:11:44,560 --> 00:11:46,399
+these things primarily to accounting and
+
+314
+00:11:46,399 --> 00:11:48,320
+insurance companies and then ended
+
+315
+00:11:48,320 --> 00:11:52,279
+production of the stw10 in 1966 as the
+
+316
+00:11:52,279 --> 00:11:55,440
+ec130 a transistor calculator with a 13
+
+317
+00:11:55,440 --> 00:11:58,000
+digit capacity started taking over
+
+318
+00:11:58,000 --> 00:12:00,000
+frieden was bought out by singer known
+
+319
+00:12:00,000 --> 00:12:01,680
+primarily for their sewing machines at
+
+320
+00:12:01,680 --> 00:12:03,680
+the time and eventually died off in the
+
+321
+00:12:03,680 --> 00:12:06,399
+70s as pocket calculators like this one
+
+322
+00:12:06,399 --> 00:12:09,360
+hit the market i mean as awesome as this
+
+323
+00:12:09,360 --> 00:12:12,639
+absolute unit is it's pretty obvious why
+
+324
+00:12:12,639 --> 00:12:14,720
+these started winning out twelve
+
+325
+00:12:14,720 --> 00:12:15,920
+thousand eight hundred and seventy two
+
+326
+00:12:15,920 --> 00:12:17,200
+multiplied by four thousand three
+
+327
+00:12:17,200 --> 00:12:20,560
+hundred and seven and go
+
+328
+00:12:23,040 --> 00:12:26,320
+yeah uh sorry frieden uh
+
+329
+00:12:26,320 --> 00:12:27,600
+still love ya
+
+330
+00:12:27,600 --> 00:12:29,279
+if you want to try and buy one of these
+
+331
+00:12:29,279 --> 00:12:30,959
+and try and restore it yourself they
+
+332
+00:12:30,959 --> 00:12:33,040
+seem to go from anywhere between two and
+
+333
+00:12:33,040 --> 00:12:36,160
+five hundred dollars if you can find one
+
+334
+00:12:36,160 --> 00:12:38,240
+you'll also be lucky if yours arrives in
+
+335
+00:12:38,240 --> 00:12:40,560
+perfectly working condition if you want
+
+336
+00:12:40,560 --> 00:12:42,639
+any tips on restoring or using them make
+
+337
+00:12:42,639 --> 00:12:44,160
+sure to check out richard on twitch
+
+338
+00:12:44,160 --> 00:12:45,560
+twitch.tv
+
+339
+00:12:45,560 --> 00:12:47,680
+scrobotasaurus we'll have that as well
+
+340
+00:12:47,680 --> 00:12:50,079
+as any affiliate links down below thanks
+
+341
+00:12:50,079 --> 00:12:51,360
+to bessie footwear for sponsoring
+
+342
+00:12:51,360 --> 00:12:53,040
+today's video bessie footwear is known
+
+343
+00:12:53,040 --> 00:12:54,959
+for being lightweight easy to pack
+
+344
+00:12:54,959 --> 00:12:56,880
+comfortable and most importantly water
+
+345
+00:12:56,880 --> 00:12:58,560
+resistant designed to keep you moving
+
+346
+00:12:58,560 --> 00:13:00,720
+bessie released their new everyday move
+
+347
+00:13:00,720 --> 00:13:02,800
+shoes they've got enhanced breathability
+
+348
+00:13:02,800 --> 00:13:04,560
+and added support making the style
+
+349
+00:13:04,560 --> 00:13:06,480
+perfect for the adventurous or those
+
+350
+00:13:06,480 --> 00:13:08,000
+looking for something sportier they've
+
+351
+00:13:08,000 --> 00:13:09,680
+got a pull tab to make taking them off
+
+352
+00:13:09,680 --> 00:13:11,600
+and putting them on super easy vegan
+
+353
+00:13:11,600 --> 00:13:13,440
+suede lace cages extra midsole
+
+354
+00:13:13,440 --> 00:13:15,360
+cushioning and the same water resistant
+
+355
+00:13:15,360 --> 00:13:17,360
+dymatech technology that you would find
+
+356
+00:13:17,360 --> 00:13:18,800
+in other vessy shoes you're going to
+
+357
+00:13:18,800 --> 00:13:20,320
+want to wear them everywhere the dual
+
+358
+00:13:20,320 --> 00:13:22,000
+climate knit material keeps your feet
+
+359
+00:13:22,000 --> 00:13:23,519
+warm during the winter and cool during
+
+360
+00:13:23,519 --> 00:13:25,519
+the summer so why wait stay dry and get
+
+361
+00:13:25,519 --> 00:13:27,760
+your vessy shoes today at vesey.com
+
+362
+00:13:27,760 --> 00:13:30,240
+linus tech tips you'll even get 25 off
+
+363
+00:13:30,240 --> 00:13:31,839
+using code linus tech tips at the
+
+364
+00:13:31,839 --> 00:13:34,000
+checkout thanks for watching everyone if
+
+365
+00:13:34,000 --> 00:13:35,519
+you enjoyed this video make sure to
+
+366
+00:13:35,519 --> 00:13:38,000
+check out our model m video the greatest
+
+367
+00:13:38,000 --> 00:13:40,480
+keyboard of all time reborn in which
+
+368
+00:13:40,480 --> 00:13:43,519
+linus stole my jacket and now i have it
+
+369
+00:13:43,519 --> 00:13:44,880
+back
+
+370
+00:13:44,880 --> 00:13:48,519
+screw you man
